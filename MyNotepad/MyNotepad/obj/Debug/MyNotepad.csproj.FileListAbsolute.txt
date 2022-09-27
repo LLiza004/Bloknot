@@ -1,0 +1,11 @@
+D:\myproject\Bloknot\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+D:\myproject\Bloknot\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+D:\myproject\Bloknot\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+D:\myproject\Bloknot\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.AssemblyReference.cache
+D:\myproject\Bloknot\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.SuggestedBindingRedirects.cache
+D:\myproject\Bloknot\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Form1.resources
+D:\myproject\Bloknot\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+D:\myproject\Bloknot\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.cache
+D:\myproject\Bloknot\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.CoreCompileInputs.cache
+D:\myproject\Bloknot\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+D:\myproject\Bloknot\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
